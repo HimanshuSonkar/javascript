@@ -6,3 +6,5 @@
 export function hello() {
   return 'Goodbye, Mars!';
 }
+
+console.log("Hello World");
